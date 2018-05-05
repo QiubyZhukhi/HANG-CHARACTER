@@ -9,5 +9,13 @@ Saya makan
 
 saya(spasi)makan
 
-pada (spasi) akan di sisipkan karakter \u200e\u200f dengan OTOMATIS, sehingga ketika target sentuh (touch) teks yang dikirim, whatsapp target akan
-terasa berat.
+pada (spasi) akan di sisipkan karakter \u200e\u200f dengan OTOMATIS sekaligus meng-copynya, sehingga ketika dipaste ke target, dan target menyentuh (touch) teks yang dikirim, whatsapp target akan terasa berat.
+
+# Tutorial
+1. Run Script
+2. Masukkan Text dengan spasi
+contoh: Saya makan
+3. Pergi whatsapp target, PASTE.
+
+## jangan terlalu banyak menggunkan spasi, itukan memberatkan HP anda sendiri
+setidaknya 1 spasi saja.
