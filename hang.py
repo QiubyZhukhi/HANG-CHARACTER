@@ -1,10 +1,7 @@
 #coding:utf8
 #qpy:3
 #qpy:console
-import sys
 import sl4a
-reload(sys)
-sys.setdefaultencoding('utf-8')
 text = input("Text: ")
 def pesan(t):
     droid = sl4a.Android()
