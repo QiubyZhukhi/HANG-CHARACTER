@@ -18,5 +18,6 @@ contoh: Saya makan
 3. Pergi whatsapp target, PASTE.
 
 ## Jangan terlalu banyak menggunkan spasi, itukan memberatkan HP anda sendiri
-## setidaknya 1 spasi saja jika dari HP, jika dari PC terserah Anda.
+## Setidaknya 1 spasi saja jika dari HP, jika dari PC terserah Anda.
+## Karakter dapat di pastekan pada Text Box Aplikasi facebook, youtube, Instagram, dll di Android
 
