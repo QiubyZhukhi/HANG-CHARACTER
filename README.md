@@ -17,5 +17,6 @@ pada (spasi) akan di sisipkan karakter \u200e\u200f dengan OTOMATIS sekaligus me
 contoh: Saya makan
 3. Pergi whatsapp target, PASTE.
 
-## jangan terlalu banyak menggunkan spasi, itukan memberatkan HP anda sendiri
-setidaknya 1 spasi saja.
+## Jangan terlalu banyak menggunkan spasi, itukan memberatkan HP anda sendiri
+## setidaknya 1 spasi saja jika dari HP, jika dari PC terserah Anda.
+
